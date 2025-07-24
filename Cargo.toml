@@ -10,4 +10,4 @@ crate-type = ["cdylib"]
 
 [dependencies]
 dirs = "6.0.0"
-nocast_plugincore = { git = "https://github.com/roger-padrell/nocast_plugincore" }
+nocast_plugincore = { git = "https://github.com/nocast/plugincore" }
